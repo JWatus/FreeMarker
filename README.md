@@ -1,0 +1,1 @@
+In this repository can be found tasks and issues related to usage of FreeMarker.

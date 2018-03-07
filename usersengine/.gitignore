@@ -1,0 +1,10 @@
+.idea
+*.iml
+target
+src/main/java/com/isa/usersengine/cdi/MaxPulse.java
+src/main/java/com/isa/usersengine/cdi/MaxPulseBean.java
+src/main/java/com/isa/usersengine/filters
+src/main/java/com/isa/usersengine/interceptors
+src/main/java/com/isa/usersengine/dao/UsersRepositoryDaoRemote.java
+src/main/java/com/isa/usersengine/domain/Gender.java
+src/main/java/com/isa/usersengine/freemarker
